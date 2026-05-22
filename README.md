@@ -1,12 +1,11 @@
 # 👨‍🏫 Fumiaki Masakiyo (mars2007)
 
 ### 📌 専門分野 (Teaching & Research)
-- **専門・担当:** 情報技術教育 (Teaching Information Technology)、AI・データサイエンス、プログラミング教育
+- **専門・担当:　ネットワーク工学、IoT、ICT、AI、DataScience、プログラミング教育
 
 ### ⚡ 最近何してる？ (Current Projects & Focus)
 - 📊 **AI・統計学の教材開発
 - 💻 **Web・デスクトップアプリ開発:** JavaScript, Python, ツールやシミュレータ、ゲームの構築
-- 📈 **マーケット分析** 半導体セクターや貴金属(ゴールド・シルバー)のテクニカル価格推移分析
 
 ---
 
