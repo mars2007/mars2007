@@ -4,8 +4,8 @@
 - **専門・担当:　ネットワーク工学、IoT、ICT、AI、DataScience、プログラミング教育
 
 ### ⚡ 最近何してる？ (Current Projects & Focus)
-- 📊 **AI・統計学の教材開発
-- 💻 **Web・デスクトップアプリ開発:** JavaScript, Python, ツールやシミュレータ、ゲームの構築
+- 📊 **AI・データサイエンス、データエンジニアリング関連の教材開発
+- 💻 **Web・デスクトップアプリ開発:** JavaScript, Python, ツールやシミュレータ、ゲーム
 
 ---
 
