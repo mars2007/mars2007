@@ -1,7 +1,7 @@
 # 👨‍🏫 Fumiaki Masakiyo (mars2007)
 
 ### 📌 専門分野 (Teaching & Research)
-- **専門・担当:　ネットワーク工学、IoT、ICT、AI、DataScience、プログラミング教育
+- **専門・担当:　Network、IoT、ICT、Web、AI、DataScience、Mechatronics
 
 ### ⚡ 最近何してる？ (Current Projects & Focus)
 - 📊 **AI・データサイエンス、データエンジニアリング関連の教材開発
