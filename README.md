@@ -37,17 +37,4 @@ GitHub Pagesにて、研究室や講義、個人開発で作成した各種シ�
 * **Shogi** (伝統的な将棋UI / 推論部「やねうら王」連携)
 
 ---
-
-## 🧰 技術スタック (Languages & Tools)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7D800?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R_Language-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="Office365" />
-</p>
-
----
 *個人利用・実験・教材研究を目的としたオープンソースコードを公開しています。*
