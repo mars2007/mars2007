@@ -5,7 +5,7 @@
 
 ### ⚡ 最近何してる？ (Current Projects & Focus)
 - 📊 **AI・データサイエンス、データエンジニアリング関連の教材開発
-- 💻 **Web・デスクトップアプリ開発:** JavaScript, Python, ツールやシミュレータ、ゲーム
+- 💻 **Web・デスクトップアプリ開発:** JavaScript, Python, 各種ツール、ゲーム
 
 ---
 
