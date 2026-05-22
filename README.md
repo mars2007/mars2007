@@ -13,7 +13,7 @@
 
 GitHub Pagesにて、研究室や講義、個人開発で作成した各種シミュレータやゲームのポータルサイトを公開しています。
 
-👉 **[my-apps ポータルサイトを開く](https://mars2007.github.io/my-apps/)**
+👉 **[my-apps ポータルサイトを開く](https://github.com/mars2007/my-apps/tree/main)**
 
 ### 🛠️ リポジトリ収録ツール (Monorepo)
 * **Easy English Chat:** やさしい英会話練習システム（PC+Chrome推奨）
