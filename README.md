@@ -40,4 +40,4 @@ GitHub Pagesにて、研究室や講義、個人開発で作成した各種シ�
 ---
 *個人利用・実験・教材研究を目的としたオープンソースコードを公開しています。*
 
-<img src="https://komarev.com/ghvc/?username=mars2007&color=blue" alt="Views" />
+![Views](https://komarev.com/ghpvc/?username=mars2007&color=blue)
