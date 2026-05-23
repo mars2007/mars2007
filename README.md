@@ -15,7 +15,7 @@ GitHub Pagesにて、研究室や講義、個人開発で作成した各種シ�
 
 👉 **[my-apps ポータルサイトを開く](https://github.com/mars2007/my-apps/tree/main)**
 
-👉 **[Vercelによるポータルサイトを開く](https://my-portfolio-three-ebon-92.vercel.app/projects)**
+👉 **[my-portfolio(Next.js+Vercel) ポータルサイトを開く](https://my-portfolio-three-ebon-92.vercel.app/projects)**
 
 ### 🛠️ リポジトリ収録ツール (Monorepo)
 * **Easy English Chat:** やさしい英会話練習システム（PC+Chrome推奨）
