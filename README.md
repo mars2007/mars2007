@@ -13,9 +13,11 @@
 
 GitHub Pagesにて、研究室や講義、個人開発で作成した各種シミュレータやゲームのポータルサイトを公開しています。
 
-👉 **[my-apps ポータルサイトを開く](https://github.com/mars2007/my-apps/tree/main)**
+👉 **[my-apps リポジトリ](https://github.com/mars2007/my-apps/tree/main)**
 
-👉 **[my-portfolio(Next.js+Vercel) ポータルサイトを開く](https://my-portfolio-three-ebon-92.vercel.app/projects)**
+👉 **[My ホームページ]([https://github.com/mars2007/my-apps/tree/main](https://ss413589.stars.ne.jp/))**
+
+👉 **[my-portfolio(Next.js+Vercel) ](https://my-portfolio-three-ebon-92.vercel.app/projects)**
 
 👉 **[各種プログラム・実行確認](https://mars2007.github.io/my-apps/)**
 
