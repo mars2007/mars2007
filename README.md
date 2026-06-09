@@ -15,7 +15,7 @@ GitHub Pagesにて、研究室や講義、個人開発で作成した各種シ�
 
 👉 **[my-apps リポジトリ](https://github.com/mars2007/my-apps/tree/main)**
 
-👉 **[My ホームページ]([https://ss413589.stars.ne.jp/])**
+👉 **[My ホームページ](https://ss413589.stars.ne.jp/)**
 
 👉 **[my-portfolio(Next.js+Vercel) ](https://my-portfolio-three-ebon-92.vercel.app/projects)**
 
