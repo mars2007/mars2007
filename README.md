@@ -17,7 +17,7 @@ GitHub Pagesにて、研究室や講義、個人開発で作成した各種シ�
 
 👉 **[My ホームページ](https://ss413589.stars.ne.jp/)**
 
-👉 **[Next.js+Vercel 動作実験) ](https://my-portfolio-three-ebon-92.vercel.app/projects)**
+👉 **[Next.js+Vercel 動作実験](https://my-portfolio-three-ebon-92.vercel.app/projects)**
 
 👉 **[各種プログラム・実行確認](https://mars2007.github.io/my-apps/)**
 
