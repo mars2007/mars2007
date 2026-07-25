@@ -4,8 +4,8 @@
 - **専門・担当:　Network、IoT、ICT、Web、AI、DataScience、Mechatronics
 
 ### ⚡ 最近何してる？ (Current Projects & Focus)
-- 📊 **AI・データサイエンス、データエンジニアリング関連の教材開発
-- 💻 **Web・デスクトップアプリ開発:** JavaScript(React,Next.js), Python, 各種ツール、ゲーム
+- 📊 **AI・データサイエンス、データエンジニアリング、クラウドコンピューティング、共同開発関連の教材開発
+- 💻 **Web・デスクトップアプリ開発:** JavaScript(React,Next.js), Python, AWS, 各種ツール、ゲーム
 
 ---
 
